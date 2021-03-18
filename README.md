@@ -1,5 +1,5 @@
 # Sample QA scrip for PrinterLogic
-test
+
 This PyTest/Selenium script covers the following cases:
 
 * Validate edge cases on yhe login screen (Cap sensitive password, cap insensitive user, wrong user, wrong password)
