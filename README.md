@@ -15,6 +15,6 @@ This PyTest/Selenium script covers the following cases:
 
 ## Usage
 
-Run `pytest --alluredir=allure-results/` to execute the test cases recovering the execution report date in the `allure-results` folder.
+Run `pytest --alluredir=allure-results/` to execute the test cases recovering the execution data in the `allure-results` folder.
 
 Run `allure serve allure-results/` from the project directory in order to build and present the HTML report.
