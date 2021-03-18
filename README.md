@@ -1,4 +1,4 @@
-#Sample QA scrip for PrinterLogic
+# Sample QA scrip for PrinterLogic
 
 This PyTest/Selenium script covers the following cases:
 
