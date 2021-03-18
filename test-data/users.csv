@@ -1,0 +1,6 @@
+User,Password,ExpectedResult
+eric.pereyra,Test1234,pass
+Eric.Pereyra,test1234,fail
+Eric.Pereyra,Test123,fail
+ericpereyra,Test1234,fail
+Eric.Pereyra,Test1234,pass
